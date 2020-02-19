@@ -1,9 +1,11 @@
 aniso8601==8.0.0
+blinker==1.4
 Click==7.0
 coverage==5.0.3
 entrypoints==0.3
 flake8==3.7.9
 Flask==1.1.1
+Flask-DebugToolbar==0.11.0
 Flask-RESTful==0.3.8
 Flask-SQLAlchemy==2.4.1
 Flask-Testing==0.7.1
